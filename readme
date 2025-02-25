@@ -1,0 +1,39 @@
+=== Unlimited Article Generation ===
+Contributors: hasibulhasanrajib  
+Tags: AI content, WordPress, bulk post, SEO, automation  
+Requires at least: 5.6  
+Tested up to: 6.4  
+Stable tag: 2.0  
+License: GPLv2 or later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
+
+== Description ==  
+Unlimited Article Generation is a WordPress plugin that automatically creates and publishes AI-generated posts with SEO-friendly content, meta details, and relevant images.  
+
+✔ **AI-Powered Content Generation**  
+✔ **2000+ Word Articles**  
+✔ **SEO Meta Titles & Descriptions**  
+✔ **Category Selection**  
+✔ **Unsplash Image Integration**  
+✔ **Secure Nonce Verification**  
+
+== Installation ==  
+1. Download the plugin.  
+2. Upload it to `wp-content/plugins/` directory.  
+3. Activate the plugin via the WordPress dashboard.  
+
+== How to Use ==  
+1. Navigate to "AI Article Generator" in the WP Admin Panel.  
+2. Select the number of posts and category.  
+3. Click "Generate Posts" to create content automatically.  
+
+== Changelog ==  
+= 2.0 =  
+- Ensured dynamic AI content generation  
+- Improved content to 2000+ words  
+- Added category selection  
+- Optimized for SEO with meta titles/descriptions  
+- Integrated Unsplash for images  
+
+== Support ==  
+For support, visit [https://wpdeveloper.holeiholo.com](https://wpdeveloper.holeiholo.com).
